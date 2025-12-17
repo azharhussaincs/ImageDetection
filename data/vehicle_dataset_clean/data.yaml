@@ -1,0 +1,17 @@
+path: vehicle_dataset_clean
+train: images/train
+val: images/val
+test: images/test
+nc: 11
+names:
+- rocket_artillery
+- tank
+- military_truck
+- armored_vehicle
+- soldier
+- truck
+- military_aircraft
+- artillery
+- weapon
+- explosion
+- military_helicopter
